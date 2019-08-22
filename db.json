@@ -1,7 +1,7 @@
 {
   "usuarios": [
-    { "id": "mcpuentes","data":{"id": "mcpuentes", "estadoClave": "VALIDA"} },
-    { "id": "eduleon","data":{"id": "eduleon", "estadoClave": "CADUCADA"} }
+    { "id": "mcpuentes","data":{"codigoUsuario": "mcpuentes", "estadoClave": "VALIDA"} },
+    { "id": "eduleon","data":{"codigoUsuario": "eduleon", "estadoClave": "CADUCADA"} }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
