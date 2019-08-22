@@ -2,13 +2,13 @@
   "usuarios": [
     { "id": "mcpuentes",
       "data": {
-        "codigoUsuario": "mcpuentes", 
+        "id": "mcpuentes", 
         "estadoClave": "VALIDA"
       } 
     },
     { "id": "eduleon",
       "data": {
-        "codigoUsuario": "eduleon", 
+        "id": "eduleon", 
         "estadoClave": "CADUCADA"
       } 
     }
