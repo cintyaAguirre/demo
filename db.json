@@ -1,18 +1,20 @@
 {
-  "usuarios": [
-    { "id": "mcpuentes",
-      "data": {
-        "id": "mcpuentes", 
-        "estadoClave": "VALIDA"
-      } 
-    },
-    { "id": "eduleon",
-      "data": {
-        "id": "eduleon", 
-        "estadoClave": "CADUCADA"
-      } 
-    }
-  ],
+  "summary": {
+    "usuarios": [
+      { "id": "mcpuentes",
+        "data": {
+          "id": "mcpuentes", 
+          "estadoClave": "VALIDA"
+        } 
+      },
+      { "id": "eduleon",
+        "data": {
+          "id": "eduleon", 
+          "estadoClave": "CADUCADA"
+        } 
+      }
+    ]
+  },
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
