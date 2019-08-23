@@ -13,6 +13,44 @@
       } 
     }
   ],
+  "detalleusuarios": [
+    { "id": "mcpuentes",
+      "data": {
+        "codigoUsuario": "mcpuentes",
+        "nombrePrincipal": "Marcel",
+        "primerNombre": "Marcel",
+        "segundoNombre": "Pedro",
+        "primerApellido": "Puentes",
+        "segundoApellido": "Lopez",
+        "nombresCompletos": "Marcel Puentes",
+        "tipoIdentificacion": "08",
+        "identificacionPrincipal": "1790656799001",
+        "correoPrincipal": "mpuentes@gestorinc.com",
+        "numeroTelefonoCelular": "0912345678",
+        "fechaDeNacimiento": "01/01/1970",
+        "paisNacionalidad": "ECUADOR",
+        "estadoClave": "VALIDA"
+      } 
+    },
+    { "id": "eduleon",
+      "data": {
+        "codigoUsuario": "eduleon",
+        "nombrePrincipal": "Eduardo",
+        "primerNombre": "Eduardo",
+        "segundoNombre": "Carlos",
+        "primerApellido": "Leon",
+        "segundoApellido": "Camacho",
+        "nombresCompletos": "Eduardo Leon",
+        "tipoIdentificacion": "01",
+        "identificacionPrincipal": "1790656790",
+        "correoPrincipal": "eduleon@gestorinc.com",
+        "numeroTelefonoCelular": "0962345678",
+        "fechaDeNacimiento": "31/10/1950",
+        "paisNacionalidad": "COLOMBIA",
+        "estadoClave": "CADUCADA"
+      } 
+    }
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
