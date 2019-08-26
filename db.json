@@ -2,13 +2,15 @@
   "usuarios": [
     { "id": "mcpuentes",
       "data": {
-        "id": "mcpuentes", 
+        "id": "mcpuentes",
+        "correoPrincipal": "mpuentes@gestorinc.com",
         "estadoClave": "VALIDA"
       } 
     },
     { "id": "eduleon",
       "data": {
-        "id": "eduleon", 
+        "id": "eduleon",
+        "correoPrincipal": "eduleon@gestorinc.com",
         "estadoClave": "CADUCADA"
       } 
     }
