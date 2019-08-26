@@ -1,6 +1,7 @@
 {
   "usuarios": [
     { "id": "mcpuentes",
+      "email": "mpuentes@gestorinc.com",
       "data": {
         "id": "mcpuentes",
         "correoPrincipal": "mpuentes@gestorinc.com",
@@ -8,6 +9,7 @@
       } 
     },
     { "id": "eduleon",
+      "email": "eduleon@gestorinc.com",
       "data": {
         "id": "eduleon",
         "correoPrincipal": "eduleon@gestorinc.com",
