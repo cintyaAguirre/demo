@@ -23,6 +23,14 @@
         "correoPrincipal": "andreita@gestorinc.com",
         "estadoClave": "VALIDA"
       } 
+    },
+    { "id": "ricardo",
+      "email": "ricardo@gestorinc.com",
+      "data": {
+        "id": "ricardo",
+        "correoPrincipal": "ricardo@gestorinc.com",
+        "estadoClave": "VALIDA"
+      } 
     }
   ],
   "detalleusuarios": [
