@@ -61,6 +61,24 @@
         "paisNacionalidad": "COLOMBIA",
         "estadoClave": "CADUCADA"
       } 
+    },
+    { "id": "ricardo",
+      "data": {
+        "codigoUsuario": "ricardo",
+        "nombrePrincipal": "RICARDO XAVIER",
+        "primerNombre": "RICARDO",
+        "segundoNombre": "JAVIER",
+        "primerApellido": "MORALES",
+        "segundoApellido": "CAICEDO",
+        "nombresCompletos": "RICARDO JAVIER MORALES CAICEDO",
+        "tipoIdentificacion": "01",
+        "identificacionPrincipal": "1790656791",
+        "correoPrincipal": "ricardo@gestorinc.com",
+        "numeroTelefonoCelular": "0962345618",
+        "fechaDeNacimiento": "31/10/1990",
+        "paisNacionalidad": "ECUADOR",
+        "estadoClave": "VALIDA"
+      } 
     }
   ],
   "comments": [
