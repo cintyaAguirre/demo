@@ -16,19 +16,19 @@
         "estadoClave": "CADUCADA"
       } 
     },
-    { "id": "andreita",
-      "email": "andreita@gestorinc.com",
-      "data": {
-        "id": "andreita",
-        "correoPrincipal": "andreita@gestorinc.com",
-        "estadoClave": "VALIDA"
-      } 
-    },
     { "id": "ricardo",
       "email": "ricardo@gestorinc.com",
       "data": {
         "id": "ricardo",
         "correoPrincipal": "ricardo@gestorinc.com",
+        "estadoClave": "VALIDA"
+      } 
+    },
+    { "id": "andreita",
+      "email": "andreita@gestorinc.com",
+      "data": {
+        "id": "andreita",
+        "correoPrincipal": "andreita@gestorinc.com",
         "estadoClave": "VALIDA"
       } 
     }
